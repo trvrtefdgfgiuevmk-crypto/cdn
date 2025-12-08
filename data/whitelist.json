@@ -11,24 +11,20 @@
     "type": "Staff",
     "expires": null
   },
-  "japinha_mimiu": {
-    "type": "Admin",
-    "expires": null
-  },
-  "federicasim": {
-    "type": "Admin",
-    "expires": null
-  },
   "rip_indra64252": {
-    "type": "Admin",
+    "type": "SpecialAdmin",
     "expires": null
   },
   "ace_gamer248": {
-    "type": "Admin",
+    "type": "AdminElite",
     "expires": null
   },
-  "yhxdhbc": {
-    "type": "Admin",
+  "japinha_mimiu": {
+    "type": "AdminElite",
+    "expires": null
+  },
+  "federicasim": {
+    "type": "AdminElite",
     "expires": null
   },
   "yann9181": {
@@ -43,11 +39,15 @@
     "type": "Booster",
     "expires": null
   },
-  "bryan544455": {
+  "yhxdhbc": {
     "type": "Admin",
     "expires": null
   },
   "fadfakeadmin": {
+    "type": "Admin",
+    "expires": null
+  },
+  "bryan544455": {
     "type": "Admin",
     "expires": null
   },
@@ -84,4 +84,3 @@
     "expires": "23/12/2025 23:59"
   }
 }
-
