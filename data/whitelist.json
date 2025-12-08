@@ -47,13 +47,17 @@
     "type": "Admin",
     "expires": null
   },
-  "bryan544455": {
-    "type": "Admin",
-    "expires": null
-  },
   "amirpasha2210": {
     "type": "Admin",
     "expires": null
+  },
+  "amanasaad": {
+    "type": "Admin",
+    "expires": "24/12/2026"
+  },
+  "bryan544455": {
+    "type": "Admin",
+    "expires": "24/12/2026"
   },
   "imagoodboi13268": {
     "type": "Admin",
@@ -62,10 +66,6 @@
   "Zayanabbas80": {
     "type": "Admin",
     "expires": "11/12/2025"
-  },
-  "amanasaad": {
-    "type": "Admin",
-    "expires": "24/12/2026"
   },
   "namo_55444": {
     "type": "Admin",
@@ -84,3 +84,4 @@
     "expires": "23/12/2025 23:59"
   }
 }
+
