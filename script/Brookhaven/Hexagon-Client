@@ -1,5 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
-    Title = "HEXAGON DELETED :(",
+    Title = "HEXAGON FIXED :(",
     Text = "https://discord.gg/Q9R5FDapth, Join to learn more",
     Duration = 25,
 })
+
