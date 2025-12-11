@@ -3,7 +3,7 @@ local IconModule = {
     New = nil,
     IconThemeTag = nil,
     Icons = {
-        ["lucide"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/lucide/dist/Icons.lua"))(),
+        ["lucide"] = loadstring(game:HttpGetAsync("https://github.com/nxvap/cdn/raw/db/library/WindUI/icons/Icons.lua"))(),
     },
 }
 
