@@ -107,10 +107,15 @@
     "type": "Admin2",
     "expires": "12/3/2026"
   },
+  "robloxian_uv30thinq": {
+    "type": "Admin1",
+    "expires": "12/3/2026"
+  },
   "rex_f38": {
     "type": "Admin",
     "expires": "23/12/2025 23:59"
   }
 }
+
 
 
