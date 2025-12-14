@@ -58,10 +58,6 @@ return {
         ["Equip Swim Animation"] = "Equip Swim Animation",
 
         ["Names"] = "Names",
-        ["Server Audio Player"] = "Server Audio Player",
-        ["Select Audio"] = "Select Audio",
-        ["Play Audio"] = "Play Audio",
-        ["Loop Audio"] = "Loop Audio",
 
         ["View Player"] = "View Player",
         ["TP Player"] = "TP Player",
@@ -158,10 +154,6 @@ return {
         ["Equip Swim Animation"] = "Equipar Animación de Nadar",
 
         ["Names"] = "Nombres",
-        ["Server Audio Player"] = "Reproductor de Audio en el Server",
-        ["Select Audio"] = "Seleccionar Audio",
-        ["Play Audio"] = "Reproducir Audio",
-        ["Loop Audio"] = "Repetir Audio",
 
         ["View Player"] = "Ver Jugador",
         ["TP Player"] = "Teletransportarse al Jugador",
@@ -244,10 +236,6 @@ return {
         ["Advanced Animation Customizer"] = "Personalizador de animação avançado",
 
         ["Names"] = "Nomes",
-        ["Music All Server"] = "Música para todos os servidor",
-        ["Select Audio"] = "Selecione áudio",
-        ["Play Audio"] = "Reproduzir áudio",
-        ["Loop Audio"] = "Áudio em loop",
         
         ["View Player"] = "Ver jogador",
         ["TP Player"] = "Teleporte para o jogador",
@@ -326,10 +314,6 @@ return {
         ["Advanced Animation Customizer"] = "Penyesuai Animasi Tingkat Lanjut",
 
         ["Names"] = "Nama",
-        ["Music All Server"] = "Musik Semua Server",
-        ["Select Audio"] = "Pilih Audio",
-        ["Play Audio"] = "Putar Audio",
-        ["Loop Audio"] = "Lingkaran Audio",
 
         ["House"] = "Rumah",
         ["Unban all houses"] = "Batalkan larangan semua rumah",
@@ -395,10 +379,6 @@ return {
         ["Advanced Animation Customizer"] = "Расширенный настройщик анимации",
 
         ["Names"] = "Имена",
-        ["Music All Server"] = "Музыкальный весь сервер",
-        ["Select Audio"] = "Выберите аудио",
-        ["Play Audio"] = "Воспроизвести аудио",
-        ["Loop Audio"] = "Зацикленное аудио",
 
         ["House"] = "Дом",
         ["Unban all houses"] = "Разбанить все дома",
@@ -464,10 +444,6 @@ return {
         ["Advanced Animation Customizer"] = "เครื่องมือปรับแต่งภาพเคลื่อนไหวขั้นสูง",
 
         ["Names"] = "ชื่อ",
-        ["Music All Server"] = "มิวสิคออลเซิฟเวอร์",
-        ["Select Audio"] = "เลือกเสียง",
-        ["Play Audio"] = "เล่นเสียง",
-        ["Loop Audio"] = "ลูปเสียง",
 
         ["House"] = "บ้าน",
         ["Unban all houses"] = "ยกเลิกการแบนบ้านทั้งหมด",
@@ -490,10 +466,6 @@ return {
         ["Apply turbo value"] = "ใช้ค่าเทอร์โบ",
 
         ["Teleports"] = "เทเลพอร์ต",
-    },
-
-    vi = {
-        ["Hexagon Client"] = "Hexagon Client (Việt Nam)",
     },
     
     ar = {
@@ -536,10 +508,6 @@ return {
         ["Character Animation"] = "تحكم في الانميشن",
 
         ["Names"] = "اسماء",
-        ["Music All Server"] = "اغاني للكل",
-        ["Select Audio"] = "اختيار الصوت",
-        ["Play Audio"] = "تشغيل مرة فقط",
-        ["Loop Audio"] = "سبام الاغنية",
 
         ["House"] = "البيوت",
         ["Unban all houses"] = "ازاة اي باند من البيوت",
