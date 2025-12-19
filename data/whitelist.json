@@ -79,6 +79,10 @@
     "type": "Admin",
     "expires": null
   },
+  "samudocivil35": {
+    "type": "Admin",
+    "expires": null
+  },
   "amanasaad": {
     "type": "Admin",
     "expires": "24/12/2026"
@@ -132,4 +136,5 @@
     "expires": "23/12/2025 23:59"
   }
 }
+
 
