@@ -113,7 +113,7 @@
   },
   "hrnd9d4ban": {
     "type": "Admin",
-    "expires": "25/3/2026"
+    "expires": null
   },
   "amanasaad": {
     "type": "Admin",
@@ -172,8 +172,3 @@
     "expires": "23/12/2025 23:59"
   }
 }
-
-
-
-
-
