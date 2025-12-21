@@ -103,6 +103,10 @@
     "type": "Admin",
     "expires": null
   },
+  "mrsdeltaowner": {
+    "type": "Admin",
+    "expires": "22/12/2025"
+  },
   "amanasaad": {
     "type": "Admin",
     "expires": "24/12/2026"
@@ -160,3 +164,4 @@
     "expires": "23/12/2025 23:59"
   }
 }
+
