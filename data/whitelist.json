@@ -107,6 +107,10 @@
     "type": "Admin",
     "expires": null
   },
+  "007n7_frendswithadam": {
+    "type": "AdminElite",
+    "expires": null
+  },
   "hrnd9d4ban": {
     "type": "Admin",
     "expires": "25/3/2026"
@@ -168,6 +172,7 @@
     "expires": "23/12/2025 23:59"
   }
 }
+
 
 
 
