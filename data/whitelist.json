@@ -7,10 +7,6 @@
     "type": "Staff",
     "expires": null
   },
-  "ketylnbel": {
-    "type": "Staff",
-    "expires": null
-  },
   "rip_indra64252": {
     "type": "SpecialAdmin",
     "expires": null
@@ -37,18 +33,6 @@
   },
   "nax_ytb1": {
     "type": "AdminElite",
-    "expires": null
-  },
-  "yann9181": {
-    "type": "Booster",
-    "expires": null
-  },
-  "seph97": {
-    "type": "Booster",
-    "expires": null
-  },
-  "ayaayaaak": {
-    "type": "Booster",
     "expires": null
   },
   "nolik228pon": {
@@ -191,15 +175,8 @@
     "type": "Admin2",
     "expires": "12/3/2026"
   },
-  "robloxian_uv30thinq": {
-    "type": "Admin1",
-    "expires": "12/3/2026"
-  },
   "v01ddzz": {
     "type": "Admin",
     "expires": "7/1/2026 11:59"
   }
 }
-
-
-
