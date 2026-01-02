@@ -40,11 +40,7 @@
     "expires": null
   },
   "zanesonar": {
-    "type": "Admin1",
-    "expires": null
-  },
-  "thestarvault": {
-    "type": "Admin2",
+    "type": "Admin",
     "expires": null
   },
   "ilikemcdonalds111116": {
@@ -128,4 +124,3 @@
     "expires": "12/2/2026"
   }
 }
-
