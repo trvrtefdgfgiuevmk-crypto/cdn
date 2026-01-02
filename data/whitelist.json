@@ -143,9 +143,9 @@
     "type": "Admin",
     "expires": null
   },
-  "amanasaad": {
+  "taufikyupi": {
     "type": "Admin",
-    "expires": "24/12/2026"
+    "expires": "2/1/2026 11:59"
   },
   "wongirengsampoan1212": {
     "type": "AdminGift",
@@ -200,5 +200,6 @@
     "expires": "7/1/2026 11:59"
   }
 }
+
 
 
