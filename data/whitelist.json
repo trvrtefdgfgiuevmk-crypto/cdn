@@ -115,10 +115,6 @@
     "type": "Admin",
     "expires": null
   },
-  "lebronisgoat12381": {
-    "type": "AdminTEMP",
-    "expires": null
-  },
   "tayler_08093": {
     "type": "Admin",
     "expires": null
@@ -127,18 +123,11 @@
     "type": "Admin",
     "expires": "24/2/2026"
   },
-  "blueisbest111213": {
-    "type": "Admin1",
-    "expires": "12/2/2026"
-  },
   "golden10015": {
     "type": "Admin",
     "expires": "9/1/2026"
-  },
-  "brandoandhappo": {
-    "type": "Admin2",
-    "expires": "12/2/2026"
   }
 }
+
 
 
