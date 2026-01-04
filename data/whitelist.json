@@ -147,10 +147,12 @@
     "type": "Admin",
     "expires": "4/1/2026 12:00"
   },
+  "pedrox_0079": {
+    "type": "Admin",
+    "expires": "4/1/2026 23:00"
+  },
   "golden10015": {
     "type": "Admin",
     "expires": "9/1/2026"
   }
 }
-
-
