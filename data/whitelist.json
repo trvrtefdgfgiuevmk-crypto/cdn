@@ -155,10 +155,12 @@
     "type": "Admin",
     "expires": "4/1/2026 23:00"
   },
+  "daniel_nu96": {
+    "type": "Admin",
+    "expires": "8/1/2026"
+  },
   "golden10015": {
     "type": "Admin",
     "expires": "9/1/2026"
   }
 }
-
-
