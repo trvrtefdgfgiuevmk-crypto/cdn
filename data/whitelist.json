@@ -175,7 +175,7 @@
     "type": "Admin",
     "expires": "7/1/2026"
   },
-  "chico_livoco": {
+  "NOCOMPROchico_livoco": {
     "type": "Admin",
     "expires": "14/1/2026 23:59"
   },
@@ -196,3 +196,4 @@
     "expires": "9/1/2026"
   }
 }
+
