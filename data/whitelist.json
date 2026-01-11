@@ -175,7 +175,7 @@
     "type": "Admin",
     "expires": "6/1/2026"
   },
-  "elementcraft_official": {
+  "elementcraft_offical": {
     "type": "Admin",
     "expires": "12/1/2026"
   },
@@ -224,5 +224,3 @@
     "expires": "9/1/2026"
   }
 }
-
-
