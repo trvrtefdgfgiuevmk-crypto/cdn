@@ -197,7 +197,11 @@
   },
   "chico_livoco": {
     "type": "Admin",
-    "expires": "17/1/2026 23:59"
+    "expires": "24/1/2026 23:59"
+  },
+  "miguel225_2": {
+    "type": "Admin",
+    "expires": "15/1/2026 23:59"
   },
   "angelzx_ofczx": {
     "type": "Admin",
@@ -232,4 +236,5 @@
     "expires": "9/1/2026"
   }
 }
+
 
