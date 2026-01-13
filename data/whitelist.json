@@ -199,6 +199,10 @@
     "type": "Admin",
     "expires": "13/1/2026 23:59"
   },
+   "bank_xdy": {
+    "type": "Admin",
+    "expires": "null"
+  },
   "jfxp_5": {
     "type": "Admin",
     "expires": "13/1/2026"
@@ -208,4 +212,5 @@
     "expires": "13/1/2026"
   }
 }
+
 
