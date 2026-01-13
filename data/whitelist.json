@@ -11,6 +11,10 @@
     "type": "SpecialAdmin",
     "expires": null
   },
+  "bank_xdy": {
+    "type": "Admin",
+    "expires": null
+  },
   "ace_gamer248": {
     "type": "Admin",
     "expires": null
@@ -208,4 +212,5 @@
     "expires": "13/1/2026"
   }
 }
+
 
