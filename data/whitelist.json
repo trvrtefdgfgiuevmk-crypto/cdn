@@ -191,6 +191,10 @@
     "type": "Admin",
     "expires": "24/2/2026"
   },
+  "sharpchrome57": {
+    "type": "Admin",
+    "expires": "29/1/2026 23:59"
+  },
   "xilenzeros": {
     "type": "Admin",
     "expires": "13/1/2026 23:59"
@@ -220,4 +224,3 @@
     "expires": "13/1/2026"
   }
 }
-
